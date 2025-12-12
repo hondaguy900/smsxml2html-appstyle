@@ -36,7 +36,7 @@ This tool converts SMS/MMS message backup XML files from [SMS Backup & Restore b
 ### User Experience
 - **GUI wrapper** (`Run_SMSXML2HTML_Conversion.py`) - simple point-and-click interface
 - **Real-time progress**: Live conversion output with success dialog
-- **Smart folder naming**: Uses XML filename with auto-incrementing numbers to prevent overwrites
+- **Smart folder naming**: Uses source XML filename with auto-incrementing numbers to prevent overwrites
 - **One-click folder opening**: Automatically opens output folder when conversion completes
 
 ## Files Included

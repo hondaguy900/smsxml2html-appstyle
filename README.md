@@ -14,7 +14,7 @@ This tool converts SMS/MMS message backup XML files from [SMS Backup & Restore b
 - **Group conversation support** - properly displays group MMS threads with participant tracking
 - **Dark mode** - toggle between light and dark themes
 - **Search functionality** - quickly find conversations by name or phone number
-- **User-friendly GUI** - no command line knowledge required
+- **User-friendly conversion GUI** - no command line knowledge required
 
 ## What's New in This Fork
 

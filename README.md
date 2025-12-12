@@ -23,7 +23,6 @@ This tool converts SMS/MMS message backup XML files from [SMS Backup & Restore b
 - Click-to-expand conversations instead of separate HTML files
 - Real-time search filtering
 - Back button navigation
-- Responsive design that works on desktop and mobile browsers
 
 ### Technical Enhancements
 - **Intelligent conversation chunking**: Large conversations (>50MB) are automatically split into paginated chunks for smooth loading

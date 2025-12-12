@@ -85,7 +85,7 @@ pip install lxml
 python Run_SMSXML2HTML_Conversion.py
 ```
 1. Click "Browse" to select your SMS backup XML file
-2. Enter your phone number (11 digits: 18005551234)
+2. Enter your 11-digit phone number including country code (i.e. 18005551234)
 3. Choose output folder (defaults to `./output`)
 4. Click "Convert to HTML"
 5. Click "Open Folder" when conversion completes

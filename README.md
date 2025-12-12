@@ -63,6 +63,7 @@ output/
 ### Requirements
 - Python 3.6 or higher
 - lxml library
+- tkinter (included with Python on Windows/Mac; on Linux may need `python3-tk`)
 
 ### Setup
 ```bash
@@ -72,6 +73,10 @@ cd smsxml2html-appstyle
 
 # Install dependencies
 pip install lxml
+
+# On Linux, if GUI doesn't work, install tkinter:
+# Ubuntu/Debian: sudo apt-get install python3-tk
+# Fedora: sudo dnf install python3-tkinter
 ```
 
 ## Usage

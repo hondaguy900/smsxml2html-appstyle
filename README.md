@@ -111,9 +111,9 @@ python smsxml2html.py -o ./output -n 15551234567 my_messages.xml
 
 1. Install [SMS Backup & Restore by SyncTech Pty Ltd](https://play.google.com/store/apps/details?id=com.riteshsahu.SMSBackupRestore&hl=en_US) on your Android device
 2. Open the app and tap "Backup"
-3. Select "SMS" and/or "MMS" (MMS required for images)
+3. Change backup options as desired (i.e. date range, selected conversations, etc.)
 4. Choose backup location (local or cloud)
-5. Transfer the generated XML file to your computer
+5. After the backup is completed, transfer the generated XML file to your computer
 6. Run this tool to convert it to HTML
 
 ## Features in Detail

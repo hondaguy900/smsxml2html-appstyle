@@ -188,12 +188,12 @@ The generated HTML works in all modern browsers:
 
 ## Privacy & Data Handling
 
-- This tool processes SMS/MMS backup files **locally on your computer**. All conversion happens offline:
+- This tool processes SMS/MMS backup files **locally on your computer**. All conversion happens offline.
 - No data is sent to external servers
 - All generated HTML files remain on your local machine
 - You are responsible for securing your own message backups and converted files
+- **Important**: SMS backup files contain private conversations. Handle these files with appropriate care and do not share generated HTML files publicly unless you've removed all personal information.
 
-**Important**: SMS backup files contain private conversations. Handle these files with appropriate care and do not share generated HTML files publicly unless you've removed all personal information.
 ## License
 
 This project maintains the same license as the original smsxml2html project. Please refer to the original repository for licensing terms.

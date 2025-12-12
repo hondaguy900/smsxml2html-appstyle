@@ -32,7 +32,7 @@ This tool converts SMS/MMS message backup XML files from [SMS Backup & Restore b
 - **Group conversation parsing**: Properly identifies and displays group MMS participants
 - **Month-based navigation**: Jump links to navigate through conversation history by month
 - **Contact name mapping**: Intelligently maps phone numbers to contact names throughout conversations
-- **Adds Python 3.x support
+- **Adds Python 3.x support**
 
 ### User Experience
 - **GUI wrapper** (`Run_SMSXML2HTML_Conversion.py`) - simple point-and-click interface
